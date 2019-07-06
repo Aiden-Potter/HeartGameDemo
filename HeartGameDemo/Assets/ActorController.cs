@@ -49,7 +49,12 @@ public class ActorController : MonoBehaviour
         if (hitInfo.collider!=null)
         {
             Debug.Log(Physics2D.Raycast(transform.position, Vector2.down, layLength, colLayer).collider.name);
+            onGround = true;
 
+        }
+        else
+        {
+            onGround = false;
         }
         //thrustVec.y = Input.GetKeyDown(KeyCode.Joystick1Button1) ? jumpVelocity : 0;
 

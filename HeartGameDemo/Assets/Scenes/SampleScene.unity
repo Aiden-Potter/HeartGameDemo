@@ -242,8 +242,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 085d44be250f22e418344a2e1929f221, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  id: 2
   inputX: PSLeftJoyStick-X1
+  inputJump: 
+  inputFire: 
   keyX: 0
+  keyJump: 0
+  keyFire: 0
   isJump: 0
   inputEnabled: 1
 --- !u!61 &503057667
