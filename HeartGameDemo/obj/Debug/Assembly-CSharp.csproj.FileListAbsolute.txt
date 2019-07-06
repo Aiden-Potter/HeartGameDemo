@@ -1,0 +1,2 @@
+D:\GitHub\Repository\HeartGameDemo\HeartGameDemo\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\GitHub\Repository\HeartGameDemo\HeartGameDemo\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
